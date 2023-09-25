@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILANAME} !-f
+RewriteCond %{REQUEST_FILANAME} !-d
+RewriteRule ^(?!Assets) index.php [QSA,L]
