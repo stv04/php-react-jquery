@@ -9,11 +9,12 @@ En este archivo se encuentra
 	para cargar las dependencias node y poder observar el contenido corriendo en desarrollo
 
 	- Una carpeta llamada "funciones_concretas" en las que voy más especifico a lo solicitado, 
-	mostrando el archivo concreto que se da uso para cada una de las preguntas solicitadas que requieran de acción en código.
+	mostrando el archivo concreto que se da uso para cada una de las preguntas solicitadas 
+ 	que requieran de acción en código.
 
-	- Finalmente la carpeta del proyecto "php-react-jquery", que se puede llevar a una carpeta de htdoc en xampp,
-	para poder ver su funcionamiento por completo 
-	dirigiendose al dirigirse en la ruta del navegador "http://localhost/php-react-jquery/Home" 
+	- Finalmente la carpeta del proyecto "php-react-jquery", que se puede llevar a una carpeta 
+ 	de htdoc en xampp, para poder ver su funcionamiento por completo 
+	al dirigirse en la ruta del navegador "http://localhost/php-react-jquery/Home" 
 	una vez habilitado el servicio de apache en el panel de control de xampp
 
 Actualmente se encuentra disponible en la web [IR AL PROYECTO](http://php-jquery-react.lovestoblog.com/Home)
